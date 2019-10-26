@@ -1,0 +1,7 @@
+1,'As@gmail.com',33333
+2,'Kittu@gmail.com',90876
+3,'Asd@yahoo.com',88887
+4,'LPK@gmail.com',12345
+5,'Ani@reddit.com',43434
+6,'Gk@gmail.com',55667
+7,'HXL@gmail.com',98764

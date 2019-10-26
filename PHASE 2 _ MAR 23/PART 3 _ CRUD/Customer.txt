@@ -1,0 +1,7 @@
+'Hritik','X','Lal','HXL@gmail.com',8908,'ferrari'
+'Asha',' ','Shenoy','As@gmail.com',7880,'1234'
+'Anisha',' ','K','Ani@reddit.com',5678,'poiuy'
+'Anup','L','Shetty','Asd@yahoo.com',3456,'squirrel'
+'Gokul',' ','Kumar','Gk@gmail.com',9087,'manju'
+'Kriti',' ','S','Kittu@gmail.com',6788,'kitten'
+'Laksh','P','Kotian','LPK@gmail.com',1260,'sampree'

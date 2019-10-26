@@ -1,0 +1,7 @@
+100109,200,'Gobi Manchuri'
+200987,350,'Fried rice'
+456789,50,'Salad'
+123456,250,'DBC'
+145678,100,'Meals'
+876543,150,'Chole'
+983456,300,'Dosa platter'

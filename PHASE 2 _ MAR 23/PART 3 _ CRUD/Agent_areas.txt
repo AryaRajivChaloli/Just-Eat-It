@@ -1,0 +1,7 @@
+'JP Nagar',4567 
+'Banashankari',2345
+'MG Road',1234
+'Koramangala',3456
+'Jayanagar',7890
+'Indiranagar',6784
+'Marathahalli',5487

@@ -1,0 +1,7 @@
+'FoodExpress',500.00,12345,'Banashankari',3,'123abc','www.foodexpress.com'
+'TastyDelight',800.36,33333,'MG Road',4,'456xyz','www.tastydelight.com'
+'FoodAnywhereAnytime',1000.24,55667,'Ring Road',4,'lmn987','www.FAA.com'
+'ABC Hotel',350.00,98764,'Kumarswamy Layout',2,'abcdefgh','www.ABC.com'
+'Downtown Cafe',1200.45,88887,'Sangam Circle',5,'lmnopqr','www.Downtowncafe.com'
+'Cakes&Bakes',850.23,43434,'JP Nagar',4,'12345','www.CandB.com'
+'The Place To Be',2200.00,90876,'Church Street',5,'lmnghi12','www.Theplace.com'
